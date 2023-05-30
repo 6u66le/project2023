@@ -1,2 +1,2 @@
 # project2023
-a game where you the player knock other players off a platform.
+a 2 player, 2d soccer game
